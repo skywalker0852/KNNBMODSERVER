@@ -25,6 +25,13 @@ https://www.curseforge.com/minecraft/mc-mods/food-effects
 朝が来るようになる。また、眠った時に同じディメンションにいるプレイヤーに通知され、タイミングを合わせやすくなる。
 https://www.curseforge.com/minecraft/mc-mods/morpheus
 
+-ゲーム性の変更
+•一括破壊系...和製MOD。CutAll(斧/原木/onoffはCキー)、MineAll(つるはし/鉱石/
+onoffはMキー)、DigAll(シャベル/土砂/onoffはGキー)の3種類があり、それぞれ個別に導入可能。
+modsフォルダに置くだけで導入できる。一括破壊系の中では最も高性能で、Configファイルから設定変更すれば
+他MODで追加されたツールにも一括破壊機能を付与し、また他MODで追加された木材/石材/土砂も一括破壊の対象に
+含む事ができる。導入初期の状態ではOffになっているが、葉ブロックも一緒に一瞬で破壊する機能や、
+MineAllやDigAllにも一括採掘したブロックを採掘と同時に自動回収する機能を持たせる事も可能。
 
 
 
