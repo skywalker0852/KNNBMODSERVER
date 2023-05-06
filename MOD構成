@@ -47,5 +47,14 @@ MineAllやDigAllにも一括採掘したブロックを採掘と同時に自動�
 チャンピオンモブはランクが上がるほど多くの能力を持ち、より強力で危険なものになる。
 https://www.curseforge.com/minecraft/mc-mods/champions
 
+•Trapcraft...ダミー人形や点火装置、トラバサミ、針、落とし穴といったトラップ装置・
+Mobやドロップ状態のアイテムを運ぶ送風機や、周囲に落ちたアイテムを
+自動で吸い寄せて内部に取り込む磁石チェストを追加する。
+https://www.curseforge.com/minecraft/mc-mods/trapcraft/files/3608220
 
-
+•Valkyrien Skies...HariboteAirCraftやZeppelinMODのようなブロックで作った建造物を
+飛行船として飛ばせるようにするアイテムを追加するMOD。
+飛行中でもブロックの破壊やレッドストーン回路が使用可能になり、飛行船に物理演算が働く。
+コアとなるブロック、浮上用のブロック、推進するためのプロペラエンジン、発射可能な大砲などが追加される。
+1.16以降対応版は【MinecraftForge】もしくは【Fabric API】が必要。
+https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
