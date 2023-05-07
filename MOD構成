@@ -17,7 +17,9 @@ https://www.curseforge.com/minecraft/mc-mods/the-lost-cities
 
 -前提MOD
 Forge... https://files.minecraftforge.net/net/minecraftforge/forge/
-
+GeckoLib...https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601
+Obfuscate...https://www.curseforge.com/minecraft/mc-mods/obfuscate/files/3740120
+CreativeCore...https://legacy.curseforge.com/minecraft/mc-mods/creativecore/files/3419983
 -総合系Mod
 •Hwyla...カーソルを合わせたブロック・Mob・アイテムに関する
 様々な情報を表示する。https://www.curseforge.com/minecraft/mc-mods/hwyla
@@ -26,6 +28,11 @@ Forge... https://files.minecraftforge.net/net/minecraftforge/forge/
 RecipeBookやCraftGuideとは違いアイテムは追加されない。
 https://www.curseforge.com/minecraft/mc-mods/jei
 
+•JourneyMap...ゲーム内Mapを追加するMOD。
+ペットや馬、家畜などのMOBの向いてる方角が見える。
+またMapのGUIを変更できるなど凝った作りになっている。
+https://www.curseforge.com/minecraft/mc-mods/journeymap/files/4012858
+
 -システム拡張系
 •Food Effects...バニラのいくつかの食べ物を食べた際にステータスエフェクトが得られるようになる。
 https://www.curseforge.com/minecraft/mc-mods/food-effects
@@ -33,6 +40,13 @@ https://www.curseforge.com/minecraft/mc-mods/food-effects
 •Morpheus...マルチプレイにてプレイヤーの50%(デフォルト)が眠れば
 朝が来るようになる。また、眠った時に同じディメンションにいるプレイヤーに通知され、タイミングを合わせやすくなる。
 https://www.curseforge.com/minecraft/mc-mods/morpheus
+
+-撮影支援
+•CMDCam撮影用の様々な機能を追加する。
+ズームイン/アウト・カメラの向きの回転・プレイヤーを
+操作しながら撮影するoutsideモード・ブロックやエンティティに
+追従するカメラ等の機能がある。【CreativeCore：https://legacy.curseforge.com/minecraft/mc-mods/creativecore/files/3419983 】が必要。
+https://www.curseforge.com/minecraft/mc-mods/cmdcam/files/3533801
 
 -ゲーム性の変更
 •一括破壊系...和製MOD。CutAll(斧/原木/onoffはCキー)、MineAll(つるはし/鉱石/
@@ -51,4 +65,49 @@ https://www.curseforge.com/minecraft/mc-mods/champions
 Mobやドロップ状態のアイテムを運ぶ送風機や、周囲に落ちたアイテムを
 自動で吸い寄せて内部に取り込む磁石チェストを追加する。
 https://www.curseforge.com/minecraft/mc-mods/trapcraft/files/3608220
+
+•Valkyrien Skies...HariboteAirCraftやZeppelinMODのようなブロックで作った建造物を
+飛行船として飛ばせるようにするアイテムを追加するMOD。
+大型の船を作っても動作が軽く、飛行中でもブロックの破壊やレッドストーン回路が使用可能になり、
+飛行船に物理演算が働く。
+コアとなるブロック、浮上用のブロック、推進するためのプロペラエンジン、発射可能な大砲などが追加される。
+1.16以降対応版は【MinecraftForge】もしくは【Fabric API】が必要。
+https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies
+
+•Traveler's Backpack...便利なバックパック追加。寝袋や作業台、水＆溶岩タンクなどがついている。
+便利。
+https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/files/4498450
+
+•MrCrayfish's Gun Mod...9種類の銃火器と2種類の投擲(とうてき)武器、光学照準器やストックなどの各種アタッチメント、
+エンチャントが追加される。
+照準器、リコイル、リロードなどのFPSゲームに近い操作を楽しめるが、3Dモデルの読み込み負荷
+は小さくスペックの低いPCに優しいのが特徴。マインクラフトを問題なく動作させる性能のPC
+であれば十分に導入可能。鯖にも優しいであろう。
+https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod/files/3830458
+※前提MOD (ベータ版しかないよ)：Obfuscate [ https://www.curseforge.com/minecraft/mc-mods/obfuscate/files/3740120 ]
+
+•Special Mobs...ゾンビ、クリーパー、スケルトンに蜘蛛やエンダーマン、
+ガストなどの多数のスペシャルな亜種モブを追加する。
+https://www.curseforge.com/minecraft/mc-mods/special-mobs/files/4026057
+
+•Outvoted...Minecraft公式の投票で採用されなかったモブやアイテムを代わりに追加する。
+現在は敵対的なモブが多い。
+【GeckoLib：https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601 】が必要。
+
+-魔術Mod (数が多いため区分分け。下に行くほどおすすめ度低下)
+•ProjectE...MC1.2.5で開発終了になったEE2の別作者によるリメイク版。
+賢者の石を使った練成システム、魔法の指輪などを追加する。
+https://www.curseforge.com/minecraft/mc-mods/projecte/files/3736621
+
+•Reliquary Reincarnations...Mobドロップを追加し、それを使った便利な魔術アイテム等を追加する。
+魔法のアイテムに限らず銃器なども含めた様々なアイテムが作成可能になる。
+https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files/3682110
+
+•Blood Magic...黒魔術MOD。自らの血を捧げることによって、様々な魔術や
+儀式を行うMOD。祭壇を組んで悪魔を召喚したりと、リスクのある要素も多い。
+https://www.curseforge.com/minecraft/mc-mods/blood-magic/files/3870899
+
+•Mahou Tsukai...日本のアニメやゲームをリスペクトした様々な呪文を唱えることができる。
+血を使った魔法使いに、各鉱石の粉を使うことで魔法を使うことが可能。
+https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai/files/4525416
 
